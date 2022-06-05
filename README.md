@@ -2,14 +2,11 @@
 # Vue 3 / 2 Google Login
 
 <p>
-  <a href="https://npm-stat.com/charts.html?package=vue3-google-login" target="_blank">
-    <img src="https://img.shields.io/npm/dm/vue3-google-login.svg" alt="npm"/>
-  </a>&nbsp;
   <a href="https://www.npmjs.com/package/vue3-google-login" target="_blank">
     <img src="https://img.shields.io/npm/v/vue3-google-login.svg" alt="npm"/>
   </a>&nbsp;
-  <a href="https://bundlephobia.com/package/vue3-google-login" target="_blank">
-    <img src="https://img.shields.io/bundlephobia/minzip/vue3-google-login/^2.0.0" alt="npm"/>
+  <a href="https://www.npmjs.com/package/vue-demi-google" target="_blank">
+    <img src="https://img.shields.io/npm/v/vue-demi-google.svg" alt="npm"/>
   </a>&nbsp;
 </p>
 
